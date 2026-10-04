@@ -1,0 +1,42 @@
+[← Назад к индексу: Backend](../README.md#стек-и-специализации)
+
+# Backend
+
+- **[Python](https://t.me/python)**
+- **[Вакансии Backend/Frontend](https://t.me/fordev)**
+- **[Python Jobs - Вакансии](https://t.me/rabotaw_razrabotchik)**
+- **[C# jobs — вакансии по C#, .NET, Unity](https://t.me/csharpdevjob)**
+- **[Вакансии для Python-разработчиков / Python Jobs](https://t.me/ru_pythonjobs)**
+- **[Вакансии для разработчиков](https://t.me/backend_frontend_jobs)**
+- **[PHP / Laravel / Bitrix Job Offers](https://t.me/runello_rus_php)**
+- **[Python — вакансии и аналитика](https://t.me/python_jobs)**
+- **[Python — вакансии и стажировки](https://t.me/pythonpythonjobs)**
+- **[Node.js Jobs](https://t.me/nodejs_jobs)**
+- **[PHP — вакансии, поиск работы и аналитика](https://t.me/php_jobs)**
+- **[PHP jobs — вакансии по PHP, Symfony, Laravel](https://t.me/phpdevjob)**
+- **[Python Jobs](https://t.me/pythonjobs4u)**
+- **[JVM Jobs](https://t.me/alljvmjobs)**
+- **[Java Job - Вакансии и резюме](https://t.me/job_java)**
+- **[Джуниор — разработчики вакансии](https://t.me/juniors_intern_developers)**
+- **[Python Вакансии Junior/Middle](https://t.me/p_rabota)**
+- **[Job for Go, Rust Developers](https://t.me/forgoandrust)**
+- **[Сообщество Python Программистов](https://t.me/python_scripts)**
+- **[Golang Jobs](https://t.me/golangjob)**
+- **[Job for C, C++ Developers](https://t.me/forcpp)**
+- **[NodeJS Jobs канал вакансий и резюме](https://t.me/nodejsjobsfeed)**
+- **[Ruby & Elixir Job | Jooby.dev](https://t.me/rubyjob)**
+- **[Job for PHP](https://t.me/jobforphp)**
+- **[Moscow Python](https://t.me/moscowpythonconf)**
+- **[💻 Vacancies ⇢ Python Scripts](https://t.me/python_scripts_hr)**
+- **[Golang — вакансии и аналитика](https://t.me/golang_jobs)**
+- **[Golang Jobs | Jooby.dev](https://t.me/golang_job)**
+- **[Вакансии программистов Java в Москве](https://t.me/javajobinmoscow)**
+- **[WEB3 TECH | INFLOW](https://t.me/WEB3OTECH)**
+- **[Python Krasnodar](https://t.me/pythonkrd)**
+- **[Minsk Python Meetup](https://t.me/minsk_python)**
+- **[🐉 Python Jobs: Belarus, Remote, Relocate](https://t.me/minsk_python_jobs)**
+- **[Python Jobs India](https://t.me/python_jobs_india)**
+- **[PHP NN](https://t.me/php_nn)**
+- **[Python Jobs România - Moldova](https://t.me/python_job)**
+- **[Node.js Jobs — вакансии и резюме](https://t.me/nodejs_jobs_feed)**
+- **[Анастасия](https://t.me/anastaysha163)**
