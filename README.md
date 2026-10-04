@@ -1,5 +1,7 @@
 # IT-вакансии: каталог Telegram-каналов с IT вакансиями
 
+> 153 Telegram-канала с IT-вакансиями и прямыми контактами HR: разработка, DevOps, QA, аналитика, геймдев. Каналы по стекам — от Python и Go до ML и 1С — со свежими вакансиями.
+
 ## Каналы с вакансиями и прямыми контактами HR
 
 - **[Go Jobs](https://t.me/go_clean_job)**
@@ -27,7 +29,8 @@
   > Project | Product manager
 
 ## Материалы для подготовки к GOLANG собеседованиям
-https://go-offer.io/  
+
+https://go-offer.io/
 https://boosty.to/golang_job_interviews
 
 ## Стек и специализации
